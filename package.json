@@ -1,0 +1,13 @@
+{
+  "name": "House of colors",
+  "version": "1.0.0",
+  "description": "CodeCademy course building website, study purposes skills, and experience.",
+  "main": "index.html",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/BlockJakub/houseofcolors.git"
+  },
+  "keywords": ["website", "HTML", "CSS", "JavaScript", "web development"],
+  "author": "CodeCademy as modifier- BlockJakub",
+  "license": "MIT"
+}
